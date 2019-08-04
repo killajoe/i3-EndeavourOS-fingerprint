@@ -1,5 +1,5 @@
 # i3-EndeavourOS
-## joekamprads setup for i3 under [EndeavourOS](https://endeavouros.com)
+## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
 
 `git clone https://github.com/killajoe/i3-EndeavourOS.git`
 
