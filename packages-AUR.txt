@@ -1,0 +1,8 @@
+ckbcomp
+fingerprint-gui
+lightdm-settings
+lightdm-slick-greeter
+maint
+numix-themes-electric
+pamac-aur
+thermald
