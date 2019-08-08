@@ -4,7 +4,6 @@ adwaita-icon-theme
 alsa-firmware
 alsa-plugins
 alsa-utils
-amd-ucode
 arc-gtk-theme
 arc-icon-theme
 autoconf
@@ -45,8 +44,6 @@ e2fsprogs
 efibootmgr
 efitools
 elementary-icon-theme
-endeavouros-keyring
-endeavouros-mirrorlist
 ethtool
 exfat-utils
 exo
