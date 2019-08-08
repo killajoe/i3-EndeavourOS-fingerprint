@@ -10,7 +10,6 @@ arc-icon-theme
 autoconf
 automake
 awesome-terminal-fonts
-b43-fwcutter
 bash
 bash-completion
 bind-tools
@@ -19,10 +18,8 @@ bison
 blueberry
 bluez-utils
 boost
-broadcom-wl
 btrfs-progs
 bzip2
-clonezilla
 compton
 coreutils
 cpupower
@@ -91,7 +88,6 @@ grml-zsh-config
 grsync
 grub
 grub-customizer
-grub-theme-vimix
 grub2-theme-endeavouros
 gst-libav
 gst-plugins-bad
@@ -122,9 +118,6 @@ inetutils
 intel-ucode
 iproute2
 iputils
-ipw2100-fw
-ipw2200-fw
-irssi
 iwd
 jfsutils
 jq
@@ -147,8 +140,6 @@ libva-intel-driver
 libwnck3
 licenses
 light-locker
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
 linux
 linux-atm
 linux-firmware
@@ -204,7 +195,6 @@ partimage
 patch
 pavucontrol
 pciutils
-pepper-flash
 perl
 perl-anyevent-i3
 pkgconf
@@ -254,14 +244,12 @@ systemd-sysvcompat
 tar
 tcpdump
 telegram-desktop
-terminus-font
 texinfo
 thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 tlp
-transmission-gtk
 ttf-bitstream-vera
 ttf-caladea
 ttf-carlito
@@ -278,8 +266,6 @@ usb_modeswitch
 usbutils
 util-linux
 vi
-virtualbox-guest-modules-arch
-virtualbox-guest-utils
 volumeicon
 vpnc
 wget
@@ -292,14 +278,6 @@ wvdial
 x86_energy_perf_policy
 xcursor-neutral
 xdg-user-dirs-gtk
-xf86-input-libinput
-xf86-input-synaptics
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-fbdev
-xf86-video-intel
-xf86-video-nouveau
-xf86-video-vesa
 xfburn
 xfce4-appfinder
 xfce4-artwork
