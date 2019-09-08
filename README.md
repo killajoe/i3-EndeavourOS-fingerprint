@@ -1,6 +1,6 @@
 # i3-EndeavourOS
 ## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
-## setup for i3-Wm on EndeavourOS running on a thinkpad with finferprint reader:
+## setup for i3-Wm on EndeavourOS running on a thinkpad with fingerprint reader:
 
 Main shortcuts:
 
