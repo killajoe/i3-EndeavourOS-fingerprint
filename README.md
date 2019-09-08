@@ -1,5 +1,6 @@
 # i3-EndeavourOS
 ## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
+## setup for i3-Wm on EndeavourOS running on a thinkpad with finferprint reader:
 
 `git clone https://github.com/killajoe/i3-EndeavourOS.git`
 
@@ -16,7 +17,7 @@ install needed apps and programms:
 
 `yay -S --needed - < packages-AUR.txt`
 
-# Thermald TLP
+# Thermald TLP POWERSAVING
 
 install needed: `yay -S --needed tlp thermald`
 
