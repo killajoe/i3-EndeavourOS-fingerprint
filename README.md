@@ -2,6 +2,17 @@
 ## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
 ## setup for i3-Wm on EndeavourOS running on a thinkpad with finferprint reader:
 
+Main shortcuts:
+
+* [mod]+**enter** = open terminal (xfce4-terminal)
+* [mod]+**w** =  open Browser (firefox)
+* **F9** =  app menu (rofi)
+* **F4** =  close focused app
+
+Tiling mode is tabs, so each new window will open fullscreen as a tab, you can change between window-tabs with mous eor shortcut:
+* [mod]+**Left** focus left (left arrow key)
+* [mod]+**Right** focus right (right arrow key)
+
 `git clone https://github.com/killajoe/i3-EndeavourOS.git`
 
 * copy files to the right directories (.config of your user and pam files under /etc/pam.d {needed for fingerprint-gui to work})
