@@ -41,8 +41,6 @@ reboot...
 #
 ![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/greeter.png "slick-greeter")
 #
-![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/2019-09-08-223308_1024x768_scrot.png "fingerprint-reader")
-#
 ![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/2019-09-08-223630_1024x768_scrot.png "i3-running")
 
 login to i3... with a fingertip
