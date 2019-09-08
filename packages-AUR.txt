@@ -4,3 +4,4 @@ lightdm-slick-greeter
 maint
 numix-themes-electric
 thermald
+xcursor-openzone
