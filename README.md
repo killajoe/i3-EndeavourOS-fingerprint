@@ -4,8 +4,8 @@
 
 `git clone https://github.com/killajoe/i3-EndeavourOS.git`
 
-copy files to the right directories (.config of your user and pam files under /etc/pam.d {needed for fingerprint-gui to work})
-scripts inside ~/.config/i3/scripts must be executable ! [chmod +x] them please ;)
+* copy files to the right directories (.config of your user and pam files under /etc/pam.d {needed for fingerprint-gui to work})
+* scripts inside ~/.config/i3/scripts must be executable ! [chmod +x] them please ;)
 
 ad user to this groups **scanner plugdev**:
 
