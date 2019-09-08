@@ -274,6 +274,7 @@ wpa_supplicant
 wvdial
 x86_energy_perf_policy
 xcursor-neutral
+xfce4-terminal
 xdg-user-dirs-gtk
 xl2tpd
 xorg-server
