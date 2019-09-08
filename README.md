@@ -39,7 +39,7 @@ services e.t.c.:
 
 reboot... 
 #
-![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/2019-09-08-223308_1024x768_scrot.png "slick-greeter")
+![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/greeter.png "slick-greeter")
 #
 ![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/2019-09-08-223308_1024x768_scrot.png "fingerprint-reader")
 #
