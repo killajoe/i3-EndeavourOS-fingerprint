@@ -262,6 +262,5 @@ exec --no-startup-id light-locker
 exec --no-startup-id "compton -cC"
 exec --no-startup-id nm-applet
 exec --no-startup-id "nitrogen --restore"
-exec --no-startup-id sleep 3 && pamac-tray &
 exec pacman -Qqen > packages-repository.txt && pacman -Qqem > packages-AUR.txt
 exec --no-startup-id sleep 15 && kalu
