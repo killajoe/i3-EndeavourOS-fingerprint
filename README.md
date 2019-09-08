@@ -13,6 +13,23 @@ Tiling mode is tabs, so each new window will open fullscreen as a tab, you can c
 * [mod]+**Left** focus left (left arrow key)
 * [mod]+**Right** focus right (right arrow key)
 
+# i3blocks:
+* pulseaudio (mousewheel volume level, rightclick open pulseaudio control)
+* weather (openweather)
+* tray-icons (showing kalu and network-manager)
+* logout button (poweroff, logout, suspending, hibernate e.t.c.)
+#
+![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/panel.png "i3blocks")
+#
+![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/logoutmenu.png "logout-menu")
+
+# application menu:
+![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/appmenu.png "application-menu")
+
+
+
+
+
 `git clone https://github.com/killajoe/i3-EndeavourOS.git`
 
 * copy files to the right directories (.config of your user and pam files under /etc/pam.d {needed for fingerprint-gui to work})
