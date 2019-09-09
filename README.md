@@ -7,9 +7,13 @@
 * scripts inside ~/.config/i3/scripts must be executable ! [chmod +x] them please ;)
 
 `git clone https://github.com/killajoe/i3-EndeavourOS.git`
+
 `cd i3-EndeavourOS`
+
 `cp -R .config/i3 ~/.config/`
+
 `chmod -R +x ~/.config/i3/scripts` (make scripts executable)
+
 `cp .Xresources ~/` (needed colorcheme for menu)
 
 * copy files needed for fingerprint gui:
@@ -56,7 +60,8 @@ so each new window will open fullscreen as a tab, you can change between window-
 
 
 #
-# setup Fingerprint-GUI:
+
+# setup Fingerprint-GUI to get your fingerprints:
 https://wiki.archlinux.org/index.php/Fingerprint_GUI
 
 # Thermald/TLP POWERSAVING:
