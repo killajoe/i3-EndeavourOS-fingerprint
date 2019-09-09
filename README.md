@@ -9,7 +9,8 @@ Main shortcuts:
 * **F9** =  app menu (rofi)
 * **F4** =  close focused app
 
-Tiling mode is tabs, so each new window will open fullscreen as a tab, you can change between window-tabs with mous eor shortcut:
+# Tiling mode is tabbed: 
+so each new window will open fullscreen as a tab, you can change between window-tabs with mouse or shortcut:
 * [mod]+**Left** focus left (left arrow key)
 * [mod]+**Right** focus right (right arrow key)
 
@@ -45,7 +46,7 @@ install needed apps and programms:
 
 `yay -S --needed - < packages-AUR.txt`
 
-# Thermald TLP POWERSAVING
+# Thermald/TLP POWERSAVING:
 
 install needed: `yay -S --needed tlp thermald`
 
