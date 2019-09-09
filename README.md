@@ -2,6 +2,33 @@
 ## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
 ## setup for i3-Wm on EndeavourOS running on a thinkpad with fingerprint reader:
 
+* get my dot files
+* copy files to the right directories (.config of your user and pam files under /etc/pam.d {needed for fingerprint-gui to work}):
+* scripts inside ~/.config/i3/scripts must be executable ! [chmod +x] them please ;)
+
+`git clone https://github.com/killajoe/i3-EndeavourOS.git`
+`cd i3-EndeavourOS`
+`cp -R .config/i3 ~/.config/`
+`chmod -R +x ~/.config/i3/scripts` (make scripts executable)
+`cp .Xresources ~/` (needed colorcheme for menu)
+
+* copy files needed for fingerprint gui:
+
+`sudo cp -R  etc/pam.d/** /etc/pam.d`
+
+# Give users rights to use the fingerprint-sensor:
+* ad user to this groups **scanner plugdev**:
+
+`sudo gpasswd -a username scanner plugdev`
+
+# install needed apps and programms for i3 and fingerprint-sensor
+
+`sudo pacman -S --needed - < packages-repository.txt`
+
+`yay -S --needed - < packages-AUR.txt`
+
+# Tutorial for i3-wm settings:
+
 Main shortcuts:
 
 * [mod]+**enter** = open terminal (xfce4-terminal)
@@ -28,23 +55,9 @@ so each new window will open fullscreen as a tab, you can change between window-
 ![alt text](https://raw.githubusercontent.com/killajoe/i3-EndeavourOS/master/appmenu.png "application-menu")
 
 
-
-
-
-`git clone https://github.com/killajoe/i3-EndeavourOS.git`
-
-* copy files to the right directories (.config of your user and pam files under /etc/pam.d {needed for fingerprint-gui to work})
-* scripts inside ~/.config/i3/scripts must be executable ! [chmod +x] them please ;)
-
-ad user to this groups **scanner plugdev**:
-
-`sudo gpasswd -a username scanner plugdev`
-
-install needed apps and programms:
-
-`sudo pacman -S --needed - < packages-repository.txt`
-
-`yay -S --needed - < packages-AUR.txt`
+#
+# setup Fingerprint-GUI:
+https://wiki.archlinux.org/index.php/Fingerprint_GUI
 
 # Thermald/TLP POWERSAVING:
 
