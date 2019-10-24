@@ -1,4 +1,5 @@
 acpi
+sysstat
 otf-font-awesome
 bluez-utils
 gimp
