@@ -28,9 +28,10 @@
 `yay -S --needed - < packages-AUR.txt`
 
 # Give users rights to use the fingerprint-sensor:
-* ad user to this groups **scanner plugdev**:
+* ad user to this groups **scanner plugdev**: (replace 'username' with your users name)
 
-`sudo gpasswd -a username scanner plugdev`
+`sudo gpasswd -a username scanner`
+`sudo gpasswd -a username plugdev
 
 # Tutorial for i3-wm settings:
 
