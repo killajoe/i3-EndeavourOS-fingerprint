@@ -1,3 +1,5 @@
+acpi
+otf-font-awesome
 bluez-utils
 gimp
 gimp-dbp
