@@ -31,7 +31,8 @@
 * ad user to this groups **scanner plugdev**: (replace 'username' with your users name)
 
 `sudo gpasswd -a username scanner`
-`sudo gpasswd -a username plugdev
+
+`sudo gpasswd -a username plugdev`
 
 # Tutorial for i3-wm settings:
 
