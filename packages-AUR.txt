@@ -2,4 +2,3 @@ fingerprint-gui
 lightdm-settings
 lightdm-slick-greeter
 maint
-thermald
