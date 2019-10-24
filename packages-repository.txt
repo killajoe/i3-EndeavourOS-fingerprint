@@ -1,6 +1,7 @@
 acpi
 sysstat
 otf-font-awesome
+nitrogen
 bluez-utils
 gimp
 gimp-dbp
