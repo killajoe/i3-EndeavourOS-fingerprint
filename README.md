@@ -20,16 +20,17 @@
 
 `sudo cp -R  etc/pam.d/** /etc/pam.d`
 
-# Give users rights to use the fingerprint-sensor:
-* ad user to this groups **scanner plugdev**:
-
-`sudo gpasswd -a username scanner plugdev`
 
 # install needed apps and programms for i3 and fingerprint-sensor
 
 `sudo pacman -S --needed - < packages-repository.txt`
 
 `yay -S --needed - < packages-AUR.txt`
+
+# Give users rights to use the fingerprint-sensor:
+* ad user to this groups **scanner plugdev**:
+
+`sudo gpasswd -a username scanner plugdev`
 
 # Tutorial for i3-wm settings:
 
