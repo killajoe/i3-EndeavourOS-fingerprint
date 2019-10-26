@@ -32,3 +32,4 @@ compton
 leafpad
 pcmanfm
 polkit-gnome
+jq
