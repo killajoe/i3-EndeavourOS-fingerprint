@@ -33,3 +33,4 @@ leafpad
 pcmanfm
 polkit-gnome
 jq
+feh
